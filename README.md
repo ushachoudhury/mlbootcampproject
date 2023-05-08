@@ -5,6 +5,11 @@ conda create -p env python=3.8 -y
 ```
 ```
 source activate ./env
+
+## If you are using command prompt so the command will be for activate env
+```
+conda activate <absolute path of your env folder>
+```
 ```
 
 # git command
